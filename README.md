@@ -1,6 +1,6 @@
 #Bakery🍞
 
-🌐 Deploy available here: <a href="" rel="nofollow">Eco-store</a>
+🌐 Deploy available here: <a href="" rel="nofollow">A la flauta Bakery</a>
 
 The project was created using HTML and CSS. 
 It was developed during the CSS Grid course at Platzi, creating dynamic layouts with CSS Grid. 
